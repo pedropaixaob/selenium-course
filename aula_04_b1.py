@@ -34,3 +34,5 @@ for nome in nomes_das_caixas:
 for nome in nomes_das_caixas:
     sleep(0.3)
     browser.forward()
+
+# browser.current_url()
